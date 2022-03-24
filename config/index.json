@@ -1,0 +1,45 @@
+{
+  "development": {
+    "knex": {
+      "client": "mysql",
+      "migrations": {
+        "directory": "./knex/migrations"
+      },
+      "connection": {
+        "database": "encodelab",
+        "host": "localhost",
+        "password": "password123",
+        "port": 3307,
+        "user": "encodelab_user"
+      }
+    },
+    "webServer": {
+      "port": 1338
+    },
+    "smtp": {
+      "host": "mail.svenskadomaner.se",
+      "port": 587,
+      "auth": {
+         "user": "participate@encodelab.org",
+         "pass": "(3aLCbutxjX@"
+      }
+    }
+  },
+  "testing": {
+  },
+  "staging": {
+  },
+  "production": {
+    "webServer": {
+      "port": 1338
+    },
+    "smtp": {
+      "host": "mail.svenskadomaner.se",
+      "port": 587,
+      "auth": {
+         "user": "participate@encodelab.org",
+         "pass": "(3aLCbutxjX@"
+      }
+    }
+  }
+}

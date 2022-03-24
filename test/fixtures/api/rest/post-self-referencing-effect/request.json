@@ -1,0 +1,1836 @@
+{
+  "participant": {
+    "fullname": "Tadious Bohwasi",
+    "age": 22,
+    "nationality": "Sweden",
+    "gender": "Male",
+    "prescribedGlasses": false,
+    "wearGlasses": false,
+    "device": "Laptop",
+    "makeAndModel": "MacBook",
+    "studentNumber": "BHWTAD001",
+    "course": "CSC452F"
+  },
+  "depressionScreeningResponses": [{
+    "question": {
+      "id": 1,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I do not feel sad."
+      }, {
+        "id": 1,
+        "title": "I feel sad."
+      }, {
+        "id": 2,
+        "title": "I am sad all the time and I can not snap out of it."
+      }, {
+        "id": 3,
+        "title": "I am so sad and unhappy that I can not stand it."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 2,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I am not particularly discouraged about the future."
+      }, {
+        "id": 1,
+        "title": "I feel discouraged about the future."
+      }, {
+        "id": 2,
+        "title": "I feel I have nothing to look forward to."
+      }, {
+        "id": 3,
+        "title": "I feel the future is hopeless and that things cannot improve."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 3,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I do not feel like a failure."
+      }, {
+        "id": 1,
+        "title": "I feel I have failed more than the average person."
+      }, {
+        "id": 2,
+        "title": "As I look back on my life, all I can see is a lot of failures."
+      }, {
+        "id": 3,
+        "title": "I feel I am a complete failure as a person."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 4,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I get as much satisfaction out of things as I used to."
+      }, {
+        "id": 1,
+        "title": "I do not enjoy things the way I used to."
+      }, {
+        "id": 2,
+        "title": "I do not get real satisfaction out of anything anymore."
+      }, {
+        "id": 3,
+        "title": "I am dissatisfied or bored with everything."
+      }]
+    },
+    "answer": "0"
+  }, {
+    "question": {
+      "id": 5,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I do not feel particularly guilty."
+      }, {
+        "id": 1,
+        "title": "I feel guilty a good part of the time."
+      }, {
+        "id": 2,
+        "title": "I feel quite guilty most of the time."
+      }, {
+        "id": 3,
+        "title": "I feel guilty all of the time."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 6,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I don't feel I am being punished."
+      }, {
+        "id": 1,
+        "title": "I feel I may be punished."
+      }, {
+        "id": 2,
+        "title": "I expect to be punished."
+      }, {
+        "id": 3,
+        "title": "I feel I am being punished."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 7,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I don't feel disappointed in myself."
+      }, {
+        "id": 1,
+        "title": "I am disappointed in myself."
+      }, {
+        "id": 2,
+        "title": "I am disgusted with myself."
+      }, {
+        "id": 3,
+        "title": "I hate myself."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 8,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I don't feel I am any worse than anybody else."
+      }, {
+        "id": 1,
+        "title": "I am critical of myself for my weaknesses or mistakes."
+      }, {
+        "id": 2,
+        "title": "I blame myself all the time for my faults."
+      }, {
+        "id": 3,
+        "title": "I blame myself for everything bad that happens."
+      }]
+    },
+    "answer": "0"
+  }, {
+    "question": {
+      "id": 9,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I don't have any thoughts of killing myself."
+      }, {
+        "id": 1,
+        "title": "I have thoughts of killing myself, but I would not carry them out."
+      }, {
+        "id": 2,
+        "title": "I would like to kill myself."
+      }, {
+        "id": 3,
+        "title": "I would kill myself if I had the chance."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 10,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I don't cry any more than usual."
+      }, {
+        "id": 1,
+        "title": "I cry more now than I used to."
+      }, {
+        "id": 2,
+        "title": "I cry all the time now."
+      }, {
+        "id": 3,
+        "title": "I used to be able to cry, but now I can't cry even though I want to."
+      }]
+    },
+    "answer": "0"
+  }, {
+    "question": {
+      "id": 11,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I am no more irritated by things than I ever was."
+      }, {
+        "id": 1,
+        "title": "I am slightly more irritated now than usual."
+      }, {
+        "id": 2,
+        "title": "I am quite annoyed or irritated a good deal of the time."
+      }, {
+        "id": 3,
+        "title": "I feel irritated all the time."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 12,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I have not lost interest in other people."
+      }, {
+        "id": 1,
+        "title": "I am less interested in other people than I used to be."
+      }, {
+        "id": 2,
+        "title": "I have lost most of my interest in other people."
+      }, {
+        "id": 3,
+        "title": "I have lost all of my interest in other people."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 13,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I make decisions about as well as I ever could."
+      }, {
+        "id": 1,
+        "title": "I put off making decisions more than I used to."
+      }, {
+        "id": 2,
+        "title": "I have greater difficulty in making decisions more than I used to."
+      }, {
+        "id": 3,
+        "title": "I can't make decisions at all anymore."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 14,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I don't feel that I look any worse than I used to."
+      }, {
+        "id": 1,
+        "title": "I am worried that I am looking old or unattractive."
+      }, {
+        "id": 2,
+        "title": "I feel there are permanent changes in my appearance that make me look unattractive."
+      }, {
+        "id": 3,
+        "title": "I believe that I look ugly."
+      }]
+    },
+    "answer": "0"
+  }, {
+    "question": {
+      "id": 15,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I can work about as well as before."
+      }, {
+        "id": 1,
+        "title": "It takes an extra effort to get started at doing something."
+      }, {
+        "id": 2,
+        "title": "I have to push myself very hard to do anything."
+      }, {
+        "id": 3,
+        "title": "I can't do any work at all."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 16,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I can sleep as well as usual."
+      }, {
+        "id": 1,
+        "title": "I don't sleep as well as I used to."
+      }, {
+        "id": 2,
+        "title": "I wake up 1-2 hours earlier than usual and find it hard to get back to sleep."
+      }, {
+        "id": 3,
+        "title": "I wake up several hours earlier than I used to and cannot get back to sleep."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 17,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I don't get more tired than usual."
+      }, {
+        "id": 1,
+        "title": "I get tired more easily than I used to."
+      }, {
+        "id": 2,
+        "title": "I get tired from doing almost anything."
+      }, {
+        "id": 3,
+        "title": "I am too tired to do anything."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 18,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "My appetite is no worse than usual."
+      }, {
+        "id": 1,
+        "title": "My appetite is not as good as it used to be."
+      }, {
+        "id": 2,
+        "title": "My appetite is much worse now."
+      }, {
+        "id": 3,
+        "title": "I have no appetite at all anymore."
+      }]
+    },
+    "answer": "0"
+  }, {
+    "question": {
+      "id": 19,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I haven't lost much weight, if any, lately."
+      }, {
+        "id": 1,
+        "title": "I have lost more than 2 kilograms."
+      }, {
+        "id": 2,
+        "title": "I have lost more than 4 kilograms."
+      }, {
+        "id": 3,
+        "title": "I have lost more than 6 kilograms."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 20,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I am no more worried about my health than usual."
+      }, {
+        "id": 1,
+        "title": "I am worried about physical problems like aches, pains, upset stomach, or constipation."
+      }, {
+        "id": 2,
+        "title": "I am very worried about physical problems and it's hard to think of much else."
+      }, {
+        "id": 3,
+        "title": "I am so worried about my physical problems that I cannot think of anything else."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 21,
+      "title": "",
+      "options": [{
+        "id": 0,
+        "title": "I have not noticed any recent change in my interest in sex."
+      }, {
+        "id": 1,
+        "title": "I am less interested in sex than I used to be."
+      }, {
+        "id": 2,
+        "title": "I have almost no interest in sex."
+      }, {
+        "id": 3,
+        "title": "I have lost interest in sex completely."
+      }]
+    },
+    "answer": "3"
+  }],
+  "anxietyScreeningResponses": [{
+    "question": {
+      "id": 1,
+      "title": "I feel calm.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 2,
+      "title": "I feel secure.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 3,
+      "title": "I feel tense.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 4,
+      "title": "I feel strained.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 5,
+      "title": "I feel at ease.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 6,
+      "title": "I feel upset.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "4"
+  }, {
+    "question": {
+      "id": 7,
+      "title": "I am presently worrying over possible misfortunes.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 8,
+      "title": "I feel satisfied.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 9,
+      "title": "I feel frightened.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 10,
+      "title": "I feel comfortable.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 11,
+      "title": "I feel self confident.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 12,
+      "title": "I feel nervous.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 13,
+      "title": "I feel jittery.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "4"
+  }, {
+    "question": {
+      "id": 14,
+      "title": "I feel indecisive.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 15,
+      "title": "I feel relaxed.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 16,
+      "title": "I feel content.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 17,
+      "title": "I feel worried.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "4"
+  }, {
+    "question": {
+      "id": 18,
+      "title": "I feel confised.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 19,
+      "title": "I feel steady.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 20,
+      "title": "I feel pleasant.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 21,
+      "title": "I feel pleasant.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "4"
+  }, {
+    "question": {
+      "id": 22,
+      "title": "I feel nervous and restless.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 23,
+      "title": "I feel satisfied with myself.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 24,
+      "title": "I wish I could be as happy as others seem to be.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 25,
+      "title": "I feel like a failure.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "4"
+  }, {
+    "question": {
+      "id": 26,
+      "title": "I feel rested.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 27,
+      "title": "I am calm, cool, and collected.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 28,
+      "title": "I feel that difficulties are piling up so that I cannot overcome them.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 29,
+      "title": "I worry too much over something that really doesn’t matter.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "4"
+  }, {
+    "question": {
+      "id": 30,
+      "title": "I am happy.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 31,
+      "title": "I have disturbing thoughts.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 32,
+      "title": "I lack self-confidence.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 33,
+      "title": "I feel secure.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "4"
+  }, {
+    "question": {
+      "id": 34,
+      "title": "I make decisions easily.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 35,
+      "title": "I feel inadequate.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 36,
+      "title": "I am content.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }, {
+    "question": {
+      "id": 37,
+      "title": "Some unimportant thought runs through my mind and bothers me.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "4"
+  }, {
+    "question": {
+      "id": 38,
+      "title": "I take disappointments so keenly that I can’t put them out of my mind.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "1"
+  }, {
+    "question": {
+      "id": 39,
+      "title": "I am a steady person.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "2"
+  }, {
+    "question": {
+      "id": 40,
+      "title": "I get in a state of tension or turmoil as I think over my recent concerns or interests.",
+      "options": [{
+        "id": 1,
+        "title": "Not at all."
+      }, {
+        "id": 2,
+        "title": "Somewhat."
+      }, {
+        "id": 3,
+        "title": "Moderately so."
+      }, {
+        "id": 4,
+        "title": "Very mush so."
+      }]
+    },
+    "answer": "3"
+  }],
+  "emotionReadings": [{
+    "time": 0,
+    "value": 3
+  }, {
+    "time": 35.056893,
+    "value": 2
+  }, {
+    "time": 69.207921,
+    "value": 2
+  }, {
+    "time": 104.238585,
+    "value": 2
+  }, {
+    "time": 138.209564,
+    "value": 2
+  }],
+  "emotionType": "negative",
+  "recallAnswers": [null, {
+    "item": {
+      "id": 1,
+      "name": "Mango",
+      "image": "https://perompon.sirv.com/encodelab/items/001-mango.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1772
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 1864
+    }
+  }, {
+    "item": {
+      "id": 2,
+      "name": "Paprika",
+      "image": "https://perompon.sirv.com/encodelab/items/002-paprika.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1853
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 1195
+    }
+  }, {
+    "item": {
+      "id": 3,
+      "name": "Chili",
+      "image": "https://perompon.sirv.com/encodelab/items/003-chili.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1012
+    }
+  }, {
+    "item": {
+      "id": 4,
+      "name": "Canned Food",
+      "image": "https://perompon.sirv.com/encodelab/items/004-canned-food.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 2205
+    }
+  }, {
+    "item": {
+      "id": 5,
+      "name": "Tooth Brush",
+      "image": "https://perompon.sirv.com/encodelab/items/005-toothbrush.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 2116
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 924
+    }
+  }, {
+    "item": {
+      "id": 6,
+      "name": "Pumpkin",
+      "image": "https://perompon.sirv.com/encodelab/items/006-pumpkin.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 2503
+    }
+  }, {
+    "item": {
+      "id": 7,
+      "name": "Wallet",
+      "image": "https://perompon.sirv.com/encodelab/items/007-wallet.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1670
+    }
+  }, {
+    "item": {
+      "id": 8,
+      "name": "Orange",
+      "image": "https://perompon.sirv.com/encodelab/items/008-orange.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1792
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 1634
+    }
+  }, {
+    "item": {
+      "id": 9,
+      "name": "Broccoli",
+      "image": "https://perompon.sirv.com/encodelab/items/009-broccoli.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1556
+    }
+  }, {
+    "item": {
+      "id": 10,
+      "name": "Shampoo",
+      "image": "https://perompon.sirv.com/encodelab/items/010-shampoo.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1378
+    }
+  }, {
+    "item": {
+      "id": 11,
+      "name": "Toilet Paper",
+      "image": "https://perompon.sirv.com/encodelab/items/011-toilet-paper.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1555
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 950
+    }
+  }, {
+    "item": {
+      "id": 12,
+      "name": "Soap",
+      "image": "https://perompon.sirv.com/encodelab/items/012-soap.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 4178
+    }
+  }, {
+    "item": {
+      "id": 13,
+      "name": "Shopping Bag",
+      "image": "https://perompon.sirv.com/encodelab/items/013-shopping-bag-1.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 994
+    }
+  }, {
+    "item": {
+      "id": 14,
+      "name": "Cardboard",
+      "image": "https://perompon.sirv.com/encodelab/items/014-cardboard.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1307
+    }
+  }, {
+    "item": {
+      "id": 15,
+      "name": "Lemon",
+      "image": "https://perompon.sirv.com/encodelab/items/015-lemon.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1880
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 995
+    }
+  }, {
+    "item": {
+      "id": 16,
+      "name": "Toast",
+      "image": "https://perompon.sirv.com/encodelab/items/016-toast.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1849
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 1528
+    }
+  }, {
+    "item": {
+      "id": 17,
+      "name": "Jam",
+      "image": "https://perompon.sirv.com/encodelab/items/017-jam.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1676
+    }
+  }, {
+    "item": {
+      "id": 18,
+      "name": "Bread",
+      "image": "https://perompon.sirv.com/encodelab/items/018-bread.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 2278
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 2602
+    }
+  }, {
+    "item": {
+      "id": 19,
+      "name": "Fish",
+      "image": "https://perompon.sirv.com/encodelab/items/019-fish.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 991
+    }
+  }, {
+    "item": {
+      "id": 20,
+      "name": "Wine",
+      "image": "https://perompon.sirv.com/encodelab/items/020-wine.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1486
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 1426
+    }
+  }, {
+    "item": {
+      "id": 21,
+      "name": "Toy Truck",
+      "image": "https://perompon.sirv.com/encodelab/items/021-truck.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 3110
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 1318
+    }
+  }, null, null, {
+    "item": {
+      "id": 24,
+      "name": "Eggs",
+      "image": "https://perompon.sirv.com/encodelab/items/024-eggs.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1450
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 1025
+    }
+  }, null, null, {
+    "item": {
+      "id": 27,
+      "name": "Ham",
+      "image": "https://perompon.sirv.com/encodelab/items/027-ham-leg.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 2384
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 908
+    }
+  }, null, null, {
+    "item": {
+      "id": 30,
+      "name": "Juice",
+      "image": "https://perompon.sirv.com/encodelab/items/030-juice.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1636
+    }
+  }, null, {
+    "item": {
+      "id": 32,
+      "name": "Milk",
+      "image": "https://perompon.sirv.com/encodelab/items/032-milk.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1554
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 1030
+    }
+  }, {
+    "item": {
+      "id": 33,
+      "name": "Cheese",
+      "image": "https://perompon.sirv.com/encodelab/items/033-cheese.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1190
+    }
+  }, null, null, null, {
+    "item": {
+      "id": 37,
+      "name": "Avocado",
+      "image": "https://perompon.sirv.com/encodelab/items/037-avocado.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1501
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 919
+    }
+  }, {
+    "item": {
+      "id": 38,
+      "name": "Apple",
+      "image": "https://perompon.sirv.com/encodelab/items/038-apple.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1500
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 1874
+    }
+  }, {
+    "item": {
+      "id": 39,
+      "name": "Pizza",
+      "image": "https://perompon.sirv.com/encodelab/items/039-pizza.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 795709
+    }
+  }, null, {
+    "item": {
+      "id": 41,
+      "name": "Ice Cream",
+      "image": "https://perompon.sirv.com/encodelab/items/041-ice-cream.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1823
+    },
+    "question2": {
+      "answer": "friends-item",
+      "time": 1185
+    }
+  }, {
+    "item": {
+      "id": 42,
+      "name": "Turnip",
+      "image": "https://perompon.sirv.com/encodelab/items/042-turnip.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1274
+    }
+  }, null, {
+    "item": {
+      "id": 44,
+      "name": "Water Bottle",
+      "image": "https://perompon.sirv.com/encodelab/items/044-water-bottle.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1916
+    }
+  }, null, null, {
+    "item": {
+      "id": 47,
+      "name": "Carrots",
+      "image": "https://perompon.sirv.com/encodelab/items/047-carrot.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1044
+    }
+  }, {
+    "item": {
+      "id": 48,
+      "name": "Bleach",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/045-bleach.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1196
+    }
+  }, {
+    "item": {
+      "id": 49,
+      "name": "iPod",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/041-electronics.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 2956
+    }
+  }, {
+    "item": {
+      "id": 50,
+      "name": "Speaker",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/040-promotion.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 2480
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 954
+    }
+  }, {
+    "item": {
+      "id": 51,
+      "name": "Cigarettes",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/039-cigarettes.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1943
+    }
+  }, {
+    "item": {
+      "id": 52,
+      "name": "Makeup",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/038-cosmetics.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1454
+    }
+  }, {
+    "item": {
+      "id": 53,
+      "name": "Coke",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/036-soft-drink.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 2994
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 1156
+    }
+  }, {
+    "item": {
+      "id": 54,
+      "name": "Snack",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/035-snack.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1519
+    }
+  }, {
+    "item": {
+      "id": 55,
+      "name": "Bottles",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/034-bottles.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1668
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 5134
+    }
+  }, {
+    "item": {
+      "id": 56,
+      "name": "Grapes",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/030-grapes.png",
+      "type": "my-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1554
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 2018
+    }
+  }, {
+    "item": {
+      "id": 57,
+      "name": "Credit Card",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/029-credit-card.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1743
+    },
+    "question2": {
+      "answer": "friends-item",
+      "time": 1529
+    }
+  }, {
+    "item": {
+      "id": 58,
+      "name": "Coffee",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/021-paper-cup.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 2346
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 1226
+    }
+  }, {
+    "item": {
+      "id": 59,
+      "name": "Calculator",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/018-calculator.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": false,
+      "time": 1686
+    }
+  }, {
+    "item": {
+      "id": 60,
+      "name": "Sauce",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/017-sauce.png",
+      "type": "friends-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 1710
+    },
+    "question2": {
+      "answer": "my-item",
+      "time": 1181
+    }
+  }, {
+    "item": {
+      "id": 61,
+      "name": "Chicken",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/011-chicken.png",
+      "type": "foil-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 2250
+    },
+    "question2": {
+      "answer": "friends-item",
+      "time": 1466
+    }
+  }, {
+    "item": {
+      "id": 62,
+      "name": "Voucher",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/002-discount.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 3955
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 2313
+    }
+  }, {
+    "item": {
+      "id": 63,
+      "name": "Basket",
+      "image": "https://perompon.sirv.com/encodelab/supermarket/001-basket.png",
+      "type": "strangers-item"
+    },
+    "question1": {
+      "answer": true,
+      "time": 2720
+    },
+    "question2": {
+      "answer": "strangers-item",
+      "time": 1027
+    }
+  }]
+}
