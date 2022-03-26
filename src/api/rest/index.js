@@ -17,8 +17,7 @@ const usersRouter = (config) => {
     requestValidator('body', schema.postSelfReferencingEffect, { allowUnknown: true }),
     async (req, res, next) => {
       try {
-        // await selfReferencingEffectServiceHandler.mailParticipation(req.body, config.smtp);
-        console.log('>>>>>>>>>>>>>>>>>>>', JSON.stringify(req.body), config.smtp);
+        await selfReferencingEffectServiceHandler.mailParticipation(req.body, config.smtp);
         return res.json({});
       } catch (error) {
         return next(error);
